@@ -10,7 +10,7 @@
 # Case Studies - Non Clinical 
 # Audit Monitoring & Analytics Dashboard (Power BI Case Study)
 
-## Skills & Tools Used
+# Skills & Tools Used
 
 - **Microsoft Excel** (data cleaning, formatting, validation, standardization)
 - **Power BI Desktop** (dashboard development, interactive reporting)
